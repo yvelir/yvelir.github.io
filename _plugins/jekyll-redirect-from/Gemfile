@@ -6,3 +6,6 @@ gemspec
 if ENV["GH_PAGES"]
   gem "github-pages"
 end
+
+gem 'jekyll-redirect-from'
+$ bundle
